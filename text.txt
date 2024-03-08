@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-https://gtasix.kozsellmark
-=======
-hello world!
->>>>>>> parent of 9183994 (Update text.txt)
+Realno
